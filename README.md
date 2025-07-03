@@ -30,8 +30,8 @@ Each component of the project plays a critical role in the overall functionality
 | Description        | Link                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------- |
 | Dataset            | [Kaggle Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)  |
-| Word Embeddings    | [GloVe 100D](https://drive.google.com/file/d/1cA5jYv_n9rIrBuhqc1HfnnfCQlojKKXV/view?usp=sharing) |
-| Streamlit App      | [Streamlit Interface](https://drive.google.com/file/d/1pApTXQLimki7jOTQkRb2Ht4tyVtglZWF/view?usp=sharing) |
+| Word Embeddings    | [GloVe 100D](https://nlp.stanford.edu/projects/glove/) |
+| Streamlit App      | [Streamlit Interface](https://github.com/robbyrmadhan/Toxic-Comment-Binary-Classification/blob/main/code/streamlit_ready_app.py) |
 | Model IPYNB              | [CNN Model](https://github.com/robbyrmadhan/Toxic-Comment-Binary-Classification/blob/main/code/comment_Toxic_terbaru.ipynb) |
 | Tokenizer Pickle   | [Tokenizer](https://drive.google.com/file/d/18DN21jgVVaEdov5liEG_ez49s8PoxyaN/view?usp=sharing) |
 | Streamlit Deploy   | [Streamlit Deploy App](https://robbyrmadhan-project-ubnrbpchcplxzc2qyebxyo.streamlit.app/)                                                |
