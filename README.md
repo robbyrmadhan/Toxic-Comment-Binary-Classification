@@ -34,5 +34,4 @@ Each component of the project plays a critical role in the overall functionality
 | Streamlit App      | [Streamlit Interface](https://github.com/robbyrmadhan/Toxic-Comment-Binary-Classification/blob/main/code/streamlit_ready_app.py) |
 | Model IPYNB              | [CNN Model](https://github.com/robbyrmadhan/Toxic-Comment-Binary-Classification/blob/main/code/comment_Toxic_terbaru.ipynb) |
 | Tokenizer Pickle   | [Tokenizer](https://drive.google.com/file/d/18DN21jgVVaEdov5liEG_ez49s8PoxyaN/view?usp=sharing) |
-| Streamlit Deploy   | [Streamlit Deploy App](https://robbyrmadhan-project-ubnrbpchcplxzc2qyebxyo.streamlit.app/)                                                |
-| YoutubeComment     | You Can Dowload in File Above                                                              |
+| Streamlit Deploy   | [Streamlit Deploy App](https://robbyrmadhan-project-ubnrbpchcplxzc2qyebxyo.streamlit.app/)        |
