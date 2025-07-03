@@ -32,7 +32,7 @@ Each component of the project plays a critical role in the overall functionality
 | Dataset            | [Kaggle Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)  |
 | Word Embeddings    | [GloVe 100D](https://drive.google.com/file/d/1cA5jYv_n9rIrBuhqc1HfnnfCQlojKKXV/view?usp=sharing) |
 | Streamlit App      | [Streamlit Interface](https://drive.google.com/file/d/1pApTXQLimki7jOTQkRb2Ht4tyVtglZWF/view?usp=sharing) |
-| Model              | [CNN Model](https://drive.google.com/file/d/1iTxhqpA8rHhCelQxu9DAN20NzNwd49nj/view?usp=sharing) |
+| Model IPYNB              | [CNN Model](https://github.com/robbyrmadhan/Toxic-Comment-Binary-Classification/blob/main/code/comment_Toxic_terbaru.ipynb) |
 | Tokenizer Pickle   | [Tokenizer](https://drive.google.com/file/d/18DN21jgVVaEdov5liEG_ez49s8PoxyaN/view?usp=sharing) |
 | Streamlit Deploy   | [Streamlit Deploy App](https://robbyrmadhan-project-ubnrbpchcplxzc2qyebxyo.streamlit.app/)                                                |
 | YoutubeComment     | You Can Dowload in File Above                                                              |
